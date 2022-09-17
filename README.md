@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 ## Personal Projects
-### [Job Search Optimization](Job Search Optimization)
+### [Job Search Optimization](https://github.com/kylenewm/Job-Search-Optimization)
 #### Problem: 
 The data science industry is constantly evolving with ambiguity on the definitions of job roles such as data scientist, data analyst, ML Engineer, Applied Scientist, and business analyst. Many of the skills and requirements often overlap with other factors such as company size, years of excperience for role, and industry wildy affecting what the job entails.
 #### Objective:
