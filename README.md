@@ -7,7 +7,7 @@ The data science industry is constantly evolving with ambiguity on the definitio
 I want to optimize the jobs search process by taking into account what my personal preferences are and how they mirror specifc job postings while also building new skils along the way.
 #### How: 
 I created a mock business using DataBrick's 14-day free trial with a few different roles.
-
+#### [Project Management Roadmap](Project_roadmap.png)
 ##### Data Scientist: 
 ###### 1. Utilized [NLTK](https://www.nltk.org/) library to clean job descriptions 
 ###### 2. Performed EDA and feature extraction to find most relevant information for each role 
@@ -27,10 +27,5 @@ I created a mock business using DataBrick's 14-day free trial with a few differe
 #### Results:
 ##### Presentation
 
-###### Links SQL Code
-###### Links to python code 
-###### Links to presentation
-###### Links to dashboards
-[GantChartt](Project_roadmap.png)
 
 ## [First Supervised Learning Project](https://github.com/kylenewm/First-Supervised-Learning-Project)
