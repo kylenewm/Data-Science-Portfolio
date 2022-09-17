@@ -9,7 +9,7 @@ I want to optimize the jobs search process by taking into account what my person
 I created a mock business using DataBrick's 14-day free trial with a few different roles.
 
 ##### Data Scientist: 
-###### 1. Utilized NLTK library to clean job descriptions 
+###### 1. Utilized [NLTK](https://www.nltk.org/) library to clean job descriptions 
 ###### 2. Performed EDA and feature extraction to find most relevant information for each role 
 ###### 3. Used classifcation technqiues to find most important rquirements/skills for specific job roles
 ###### 4. Utilized clustering techniqued to create my own "customized" job search optmization
