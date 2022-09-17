@@ -33,4 +33,4 @@ I created a mock business using DataBrick's 14-day free trial with a few differe
 ###### Links to dashboards
 [GantChartt](Project_roadmap.png)
 
-##[First Supervised Learning Project](https://github.com/kylenewm/First-Supervised-Learning-Project)
+## [First Supervised Learning Project](https://github.com/kylenewm/First-Supervised-Learning-Project)
