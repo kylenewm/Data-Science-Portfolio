@@ -28,3 +28,11 @@ I created a mock business using DataBrick's 14-day free trial with a few differe
 
 
 ## [First Supervised Learning Project](https://github.com/kylenewm/First-Supervised-Learning-Project)
+
+
+
+## First Deep Learning Project
+
+
+## Exploratory Data Analysis in R
+
