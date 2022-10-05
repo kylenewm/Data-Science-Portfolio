@@ -34,7 +34,7 @@ I created a mock business using DataBrick's 14-day free trial with a few differe
 ## First Deep Learning Project
 
 
-## BBC News Classification 
+## [BBC News Classification](https://github.com/kylenewm/News_Classifcation)
 
-## Exploratory Data Analysis in R
+## [Exploratory Data Analysis in R](https://github.com/kylenewm/NYPD-Shooting-Analysis)
 
