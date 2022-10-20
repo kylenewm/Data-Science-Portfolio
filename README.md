@@ -10,6 +10,8 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 
 ## Older Projects
+
+[NYPD Shooting Analysis](https://github.com/kylenewm/NYPD-Shooting-Analysis)
 #### Problem: 
 The data science industry is constantly evolving with ambiguity on the definitions of job roles such as data scientist, data analyst, ML Engineer, Applied Scientist, and business analyst. Many of the skills and requirements often overlap with other factors such as company size, years of excperience for role, and industry wildy affecting what the job entails.
 #### Objective:
