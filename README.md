@@ -46,4 +46,4 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 ### Statisitcal Collaboration Semester Long Project
 
-**Completion Date:** May 2023
+**Completion Date:** May 2023 (Starts in January)
