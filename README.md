@@ -13,7 +13,7 @@ Create a job optimizer tool to find job postings of interest
 Preprocessing with Spacy, Transformers, Cross-encoders, topic modeling, density-based clustering, similarity metrics
 ### [News Classification](https://github.com/kylenewm/News_Classifcation)
 #### Completion Date: October 2022
-\textbb{Goal:}
+**Goal:**
 Accurately classify new news article into one of 5 categories
 
 #### Main Skills/Topics Learned: 
