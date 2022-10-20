@@ -44,6 +44,8 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 **Goal:** Create metrics that NFL teams can utilize to measure performance for offensive and defensive linemen.
 
+[Link to Competition](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023)
+
 ### Statisitcal Collaboration Semester Long Project
 
 **Completion Date:** May 2023 (Starts in January)
