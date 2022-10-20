@@ -14,7 +14,9 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 ### [News Classification](https://github.com/kylenewm/News_Classifcation)
 **Completion Date:** October 2022
+
 **Goal:** Accurately classify new news article into one of 5 categories
+
 **Main Skills/Topics Learned:** Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.) , vectorization, data pipelines
 
 ## Older Projects
