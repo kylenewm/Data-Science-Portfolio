@@ -2,7 +2,7 @@
 
 ## About me:
 
-I am a senior majoring in mathematics and concurrently attaining an MS in Data Science at CU Boulder, graduating from both programs in May 2023. In spring 2021 I took my first coding class, having never coded before. Since then, I have continued to learn more about machine learning, statistics, data mining, and data analysis. The projects in this portfolio are still a work in progress and I have left some of the older projects on my GitHub to show my personal development over the past 6 months. If you have any questions or feedback, feel free to reach out to me over email. My email is kyle.newman@colorado.edu. My next project will be for the 2023 NFL Big Data Bowl, creating metrics that NFL teams can utilize to measure performance for offensive and defensive linemen. In the spring, I will be taking a course called Statistical Collaboration, allowing me to work with on a team to solve a problem facing a client in a semester long data science project. 
+I am a senior majoring in mathematics and concurrently attaining an MS in Data Science at CU Boulder, graduating from both programs in May 2023. In spring 2021 I took my first coding class, having never coded before. Since then, I have continued to learn more about machine learning, statistics, data mining, and data analysis. The projects in this portfolio are still a work in progress and I have left some of the older projects on my GitHub to show my personal development over the past 6 months. If you have any questions or feedback, feel free to reach out to me over email. My email is kyle.newman@colorado.edu. 
 
 ## Recent Projects
 
@@ -37,4 +37,11 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 **Main Skills/Topics Learned:** Linear regression, exploratory data analysis, feature extraction, categorical encoding
 
+## Future Projects
 
+### NFL Big Data Bowl
+**Completion Date:** January 2023 **In progress**
+**Goal:** Create metrics that NFL teams can utilize to measure performance for offensive and defensive linemen.
+
+### Statisitcal Collaboration Semester Long Project
+In the spring, I will be taking a course called Statistical Collaboration, allowing me to work with on a team to solve a problem facing a client in a semester long data science project. 
