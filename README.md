@@ -18,7 +18,7 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 **Goal:** Accurately classify new news article into one of 5 categories
 
-**Main Skills/Topics Learned:** Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.) , vectorization, data pipelines
+**Main Skills/Topics Learned:** Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.), vectorization, pipelines, bagging
 
 ## Older Projects
 
