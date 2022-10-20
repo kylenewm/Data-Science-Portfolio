@@ -10,17 +10,12 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 **Goal:** Create a job optimizer tool to find job postings of interest
 
-**Main Skills/Topics Learned:**
-
-Preprocessing with Spacy, Transformers, Cross-encoders, topic modeling, density-based clustering, similarity metrics
+**Main Skills/Topics Learned:**: Preprocessing with Spacy, Transformers, Cross-encoders, topic modeling, density-based clustering
 
 ### [News Classification](https://github.com/kylenewm/News_Classifcation)
-#### Completion Date: October 2022
-**Goal:**
-Accurately classify new news article into one of 5 categories
-
-#### Main Skills/Topics Learned: 
-Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.) , vectorization, data pipelines
+**Completion Date:** October 2022
+**Goal:** Accurately classify new news article into one of 5 categories
+**Main Skills/Topics Learned:** Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.) , vectorization, data pipelines
 
 ## Older Projects
 ### [Supervised Learning](https://github.com/kylenewm/First-Supervised-Learning-Project)
