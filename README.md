@@ -40,12 +40,16 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 ## Future Projects
 
 ### NFL Big Data Bowl
-**Completion Date:** January 2023 (In progress)
+**Projected Completion Date:** January 2023 (In progress)
 
 **Goal:** Create metrics that NFL teams can utilize to measure performance for offensive and defensive linemen.
 
 [Link to Competition](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023)
 
+### Deep Learning Final Project
+
+**Projected Completion Date:** Decemeber 2023 (In progress)
+
 ### Statisitcal Collaboration Semester Long Project
 
-**Completion Date:** May 2023 (Starts in January)
+**Projected Completion Date:** May 2023 (Starts in January)
