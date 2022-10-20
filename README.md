@@ -24,8 +24,9 @@ Predicting if a client will subscribe to a term deposit
 #### Main Skills/Topics Learned: 
 Cross validation, hyperparemeter tuning, normalization techniques, imbalanbced data correction, catgorical encoding, boosting
 
-### [NYPD Shooting Analysis](https://github.com/kylenewm/NYPD-Shooting-Analysis)
-#### Goal: 
+### [NYPD Shooting Analysis](https://github.com/kylenewm/NYPD-Shooting-Analysis) 
+#### Date: March 2023
+Goal: 
 Develop understanding of key factors contributings to shootings in New York City 
 #### Main Skills/Topics Learned: 
 Linear regression, exploratory data analysis, feature extraction
