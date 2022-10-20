@@ -8,26 +8,26 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 ### [Job Search Optimization](https://github.com/kylenewm/Job-Search-Optimization)
 #### Goal:
 Create a job optimizer tool to find job postings of interest
-#### New Skills: 
+#### Main Skills/Topics Learned: 
 Preprocessing with Spacy, Transformers, Cross-encoders, topic modeling, dimensionality reduction, density-based clustering, similarity metrics
 ### [News Classification](https://github.com/kylenewm/News_Classifcation)
 #### Goal:
 Accurately classify new news article into one of 5 categories
 
-#### New Skills:
+#### Main Skills/Topics Learned: 
 Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.) , vectorization, data pipelines
 
 ## Older Projects
 ### [Supervised Learning](https://github.com/kylenewm/First-Supervised-Learning-Project)
 #### Goal: 
 Predicting if a client will subscribe to a term deposit
-#### New Skills: 
+#### Main Skills/Topics Learned: 
 Cross validation, hyperparemeter tuning, normalization techniques, imbalanbced data correction, catgorical encoding, boosting
 
 ### [NYPD Shooting Analysis](https://github.com/kylenewm/NYPD-Shooting-Analysis)
 #### Goal: 
 Develop understanding of key factors contributings to shootings in New York City 
-#### New skills:
+#### Main Skills/Topics Learned: 
 Linear regression, exploratory data analysis, feature extraction
 
 
