@@ -48,7 +48,7 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 
 ### Deep Learning Final Project
 
-**Projected Completion Date:** Decemeber 2023 (In progress)
+**Projected Completion Date:** Decemeber 2023 (Starts in November)
 
 ### Statisitcal Collaboration Semester Long Project
 
