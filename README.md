@@ -6,7 +6,7 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 ## Recent Projects
 
 ### [Job Search Optimization](https://github.com/kylenewm/Job-Search-Optimization)
-#### Completion Date: October 2022 (in progress)
+**Completion Date:** October 2022 (in progress)
 #### Goal:
 Create a job optimizer tool to find job postings of interest
 #### Main Skills/Topics Learned: 
