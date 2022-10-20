@@ -40,8 +40,10 @@ I am a senior majoring in mathematics and concurrently attaining an MS in Data S
 ## Future Projects
 
 ### NFL Big Data Bowl
-**Completion Date:** January 2023 **In progress**
+**Completion Date:** January 2023 (In progress)
+
 **Goal:** Create metrics that NFL teams can utilize to measure performance for offensive and defensive linemen.
 
 ### Statisitcal Collaboration Semester Long Project
-In the spring, I will be taking a course called Statistical Collaboration, allowing me to work with on a team to solve a problem facing a client in a semester long data science project. 
+
+**Completion Date:** May 2023
