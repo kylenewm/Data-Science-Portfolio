@@ -1,5 +1,14 @@
 # Data-Science-Portfolio
+
+## About me:
+
+I am a senior majoring in mathematics and concurrently attaining an MS in Data Science at CU Boulder, graduating from both programs in May 2023. In spring 2021 I took my first coding class, having never coded before. Since then, I have continued to learn more about machine learning, statistics, data mining, and data analysis. The projects in this portfolio are still a work in progress and I have left some of the older projects on my GitHub to show my personal development over the past 6 months. If you have any questions or feedback, feel free to reach out to me over email. My email is kyle.newman@colorado.edu. My next project will be for the 2023 NFL Big Data Bowl, creating metrics that NFL teams can utilize to measure performance for offensive and defensive linemen. In the spring, I will be taking a course called Statistical Collaboration, allowing me to work with a team to solve a problem facing a client in a semester long data science project. 
+## Recent Projects
 ## [Job Search Optimization](https://github.com/kylenewm/Job-Search-Optimization)
+
+
+
+## Older Projects
 #### Problem: 
 The data science industry is constantly evolving with ambiguity on the definitions of job roles such as data scientist, data analyst, ML Engineer, Applied Scientist, and business analyst. Many of the skills and requirements often overlap with other factors such as company size, years of excperience for role, and industry wildy affecting what the job entails.
 #### Objective:
