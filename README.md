@@ -6,6 +6,8 @@ I am currently employed as a data analyst at Red Ventures. The projects showcase
 
 The projects presented here are an ongoing representation of my professional growth, including some earlier works on my GitHub to highlight my development over time, which has seamlessly continued into my current role at Red Ventures.
 
+Now settled in my current position, I plan on further developing my skillset in forecasting, Generative AI, and model deployment over the coming weeks. 
+
 If you have any inquiries, feedback, or potential job opportunities, please feel free to reach out to me via email at kylenewman1214@gmail.com
 
 ## Recent Projects
@@ -18,7 +20,7 @@ If you have any inquiries, feedback, or potential job opportunities, please feel
 **Main Skills/Topics Learned:** TensorFlow, Convolutional Neural Networks, Transfer Learning
 
 ### [Job Search Optimization](https://github.com/kylenewm/Job-Search-Optimization)
-**Completion Date:** January 2022 (in progress)
+**Completion Date:** January 2022 
 
 **Goal:** Create a job optimizer tool to find job postings of interest
 
@@ -31,7 +33,7 @@ If you have any inquiries, feedback, or potential job opportunities, please feel
 
 **Main Skills/Topics Learned:** Preprocessing for NLP (Regex, tokenization, lemmitzation, NLTK, etc.), vectorization, pipelines, bagging
 
-## Older Projects
+## Some of Older Projects
 
 ### [Supervised Learning](https://github.com/kylenewm/First-Supervised-Learning-Project)
 
@@ -48,19 +50,5 @@ If you have any inquiries, feedback, or potential job opportunities, please feel
 
 **Main Skills/Topics Learned:** Linear regression, exploratory data analysis, feature extraction, categorical encoding
 
-## Future Projects
 
-### NFL Big Data Bowl
-**Projected Completion Date:** January 2023 (In progress)
 
-**Goal:** Create metrics that NFL teams can utilize to measure performance for offensive and defensive linemen.
-
-[Link to Competition](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023)
-
-### Deep Learning Final Project
-
-**Projected Completion Date:** Decemeber 2023 (Starts in November)
-
-### Statisitcal Collaboration Semester Long Project
-
-**Projected Completion Date:** May 2023 (Starts in January)
