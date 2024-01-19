@@ -4,7 +4,7 @@
 
 I am currently employed as a data analyst at Red Ventures. The projects showcased in this portfolio date back to my time as a junior and senior, pursuing a major in mathematics and concurrently completing an MS in Data Science at CU Boulder. I successfully graduated from both programs in May 2023. My coding journey began with my first class in Spring 2021, and since then, I have dedicated myself to continuous learning in machine learning, statistics, data mining, and data analysis.
 
-The projects presented here are an ongoing representation of my professional growth, including some earlier works on my GitHub to highlight my development over time, which has seamlessly continued into my current role at Red Ventures.
+The projects presented here are an ongoing representation of my professional growth, including some earlier work on my GitHub to highlight my development over time, which has seamlessly continued into my current role at Red Ventures.
 
 Now settled in my current position, I plan on further developing my skillset in forecasting, Generative AI, and model deployment over the coming weeks. 
 
