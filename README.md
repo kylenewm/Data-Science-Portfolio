@@ -2,7 +2,11 @@
 
 ## About me:
 
-I am a senior majoring in mathematics and concurrently attaining an MS in Data Science at CU Boulder, graduating from both programs in May 2023. In Spring 2021 I took my first coding class, having never coded before. Since then, I have continued to learn more about machine learning, statistics, data mining, and data analysis. The projects in this portfolio are still a work in progress and I have left some of the older projects on my GitHub to show my personal development over the past 6 months. If you have any questions, feedback, or potential job opportunities, feel free to reach out to me over email. My email is kyle.newman@colorado.edu. 
+I am currently employed as a data analyst at Red Ventures. The projects showcased in this portfolio date back to my time as a junior and senior, pursuing a major in mathematics and concurrently completing an MS in Data Science at CU Boulder. I successfully graduated from both programs in May 2023. My coding journey began with my first class in Spring 2021, and since then, I have dedicated myself to continuous learning in machine learning, statistics, data mining, and data analysis.
+
+The projects presented here are an ongoing representation of my professional growth, including some earlier works on my GitHub to highlight my development over time, which has seamlessly continued into my current role at Red Ventures.
+
+If you have any inquiries, feedback, or potential job opportunities, please feel free to reach out to me via email at kylenewman1214@gmail.com
 
 ## Recent Projects
 ### [Cancer Detection](https://github.com/kylenewm/Cancer_Detection)
