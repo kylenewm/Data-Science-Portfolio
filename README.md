@@ -10,7 +10,7 @@ Now settled in my current position, I plan on further developing my skillset in 
 
 If you have any inquiries, feedback, or potential job opportunities, please feel free to reach out to me via email at kylenewman1214@gmail.com
 
-## Recent Projects
+## Projects Within Past 18 Months
 ### [Cancer Detection](https://github.com/kylenewm/Cancer_Detection)
 
 **Completion Date:** November 2022
